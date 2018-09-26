@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    pritnf("Ahoj\n");
-    return 0;
 
+    return 0;
 }
